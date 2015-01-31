@@ -1,0 +1,11 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=TARArchive
+		Extension=.tar
+		Flags=&h0
+		MacCreator=
+		MacType=
+		Name=TAR archive
+	#tag EndFileType
+
+#tag EndFileTypeSet
